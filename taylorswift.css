@@ -1,0 +1,58 @@
+h1{
+    color: black;
+    font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-decoration: underline;
+}
+.Fcolor{
+    color: rgb(76, 110, 34);
+    font-size: 20px;
+    font-weight: 400;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.Tcolor{
+    color: rgb(148, 147, 142);
+    font-size: 20px;
+    font-weight: 400;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.Ecolor{
+    color: rgb(137, 30, 30);
+    font-size: 20px;
+    font-weight: 400;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+body{
+    text-align: center;
+    padding: 100px;
+    border: 2px solid; 
+    border-color: rgb(78, 77, 77);
+}
+ol{
+    list-style-position: inside;
+  
+}
+a{
+    font-size: 20px;
+}
+h2{
+    color: black;
+}
+h3{
+   color: rgb(135, 170, 190);
+}
+.div1{
+    font-size: 20px;
+    text-align: center;
+    color: rgb(135, 170, 190);
+}
+.div2{
+    font-size: 20px;
+    text-align: center;
+    color: rgb(135, 170, 190);
+}
+.div3{
+    font-size: 20px;
+    text-align: center;
+    color: rgb(135, 170, 190);
+}
